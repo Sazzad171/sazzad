@@ -1,3 +1,3 @@
 # Responsive Personal Site
 
-This is a simple responsive personal of site about me.
+This is a simple responsive personal site about me.
